@@ -1,6 +1,4 @@
 Blocking status :white_check_mark: --Blocking Working good ) </br>
-Buy me a coffee via paypal 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/KBoghdady?locale.x=en_US)
 
 ```
 Buy me Coffee with XLM GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37
